@@ -9,9 +9,6 @@ HINTS = 3
 MODE = "standard"
 path = PATH
 
-window_already = False
-
-
 def setMode(name):
     global MODE
     MODE = name
